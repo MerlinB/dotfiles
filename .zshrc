@@ -95,6 +95,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+setopt NO_BEEP
 bindkey -v
 
 source "/home/merlin/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
